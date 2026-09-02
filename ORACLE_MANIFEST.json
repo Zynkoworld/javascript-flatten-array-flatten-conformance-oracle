@@ -1,0 +1,16 @@
+{
+ "oracle_class": "compute-oracle",
+ "oracle_type": "codegen-conformance",
+ "title": "Konformancia-felulet: flatten-array (javascript, kanonikus exercism korpusz)",
+ "owner": "harvest",
+ "verify": "python3 verify.py",
+ "hardware_free_verify": true,
+ "publish_ready": true,
+ "measurement_byte_lock": "edc5f1c2159f5bb4035a82d5740702145f717f9774fee3dbad8dd95bb274701f",
+ "evidence_band": "empirical-corpus",
+ "evidence_basis": "sealed ujrafuttatas a KOZOLT kanonikus korpuszon; nem szimbolikus",
+ "not_comparable_with": "symbolic-full-input-space (KLEE-alapu conformance)",
+ "runtime_dependency": "node",
+ "summary": "5 kanonikus bemenet/kimenet par, 5 distinct; a referencia PROVEN (pin=99d091fc7267bf5b)",
+ "scope_note": "NEM altalanos helyesseg-orakulum; a kozolt korpuszon kivul semmit nem allit."
+}

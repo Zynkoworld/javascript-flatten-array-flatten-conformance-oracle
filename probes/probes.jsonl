@@ -1,0 +1,5 @@
+{"input": [], "expect": [], "raised": false, "task": "flatten-array", "lang": "javascript"}
+{"input": [0, 1, 2], "expect": [0, 1, 2], "raised": false, "task": "flatten-array", "lang": "javascript"}
+{"input": [1, 2, null], "expect": [1, 2], "raised": false, "task": "flatten-array", "lang": "javascript"}
+{"input": [null, null, 3], "expect": [3], "raised": false, "task": "flatten-array", "lang": "javascript"}
+{"input": [1, null, null, 4], "expect": [1, 4], "raised": false, "task": "flatten-array", "lang": "javascript"}
